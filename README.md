@@ -32,3 +32,10 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
     Format-List
     Format-Wide
     ```
+- Einfache Ausgabe
+    ```powershell
+    Out-Host
+    Out-File
+    Out-Printer
+    ```
+- PipeLine1
